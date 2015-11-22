@@ -2,8 +2,7 @@
 //  main.cpp
 //  home3
 //
-//  Created by Saskia Funk on 22.11.15.
-//  Copyright © 2015 Saskia Funk. All rights reserved.
+//  Random numbers 
 //
 
 #include <iostream>
